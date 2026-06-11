@@ -4,3 +4,22 @@ body {background-color: rgb(172, 194, 165);}
     justify-content: center;
     align-iten: center;
 )
+.cabecalho-titulo{
+    display:block;
+    unicode-bidi: insolate;
+}
+.cabecalho-menu-item{
+    text-decoration: nome;
+    color:black
+    margin: 0 15px
+}
+.cabecalho-menu-botao{
+    background-color: black;
+    color:black
+    border: nome;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight:600;
+    font-size: 0.9rem;
+    transition: transform 0.2s
+}
